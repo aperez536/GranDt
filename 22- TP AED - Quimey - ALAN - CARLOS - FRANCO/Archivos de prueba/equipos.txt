@@ -1,0 +1,32 @@
+1;Rusia;10;3;9
+2;Arabia;5;5;5
+3;egipto;4;2;6
+4;Uruguay;2;2;3
+5;portugal;1;1;0
+6;españa;6;6;12
+7;marruecos;5;4;8
+8;iran;3;3;7
+9;francia;9;9;8
+10;australia;10;4;8
+11;peru;7;6;6
+12;dinamarca;4;3;6
+13;Argentina;1;2;2
+14;islandia;1;0;2
+15;croacia;3;0;6
+16;nigeria;1;1;1
+17;brasil;2;2;2
+18;suiza;4;4;4
+19;costa rica;10;5;7
+20;serbia;0;2;2
+21;alemania;0;5;0
+22;mexico;0;4;0
+23;suecia;0;7;0
+24;rep de corea;0;10;0
+25;beelgica;0;20;0
+26;panama;0;23;0
+27;tunez;1;0;2
+28;inglaterra;1;0;4
+29;polonia;2;0;6
+30;senegai;0;0;2
+31;colombia;1;0;2
+32;japon;0;2;0

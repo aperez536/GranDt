@@ -1,0 +1,291 @@
+1;Igor Akinfeev;4;1
+2;Vladimir Gabulov;5;1
+3;Andrei Luniov;6;1
+4;Vladimir Granat;7;1
+5;Fiodor Kudriashov;7;1
+6;Ilia Kutepov;8;1
+7;Semenov;4;1
+8;igor Smolnikov (Zenit);4;1
+9;Mario Fernandes;5;1
+10;Serguei Ignashevich;2;1
+11;Yuri Gazinskiy;1;1
+12;Alexandr Golovin;4;1
+13;Alan Dzagoev;5;1
+14;Alexandr Yerokhin;5;1
+15;Roman Zobnin;6;1
+16;Yuri Zhirkov;4;1
+17;Daler Kuzyaev;8;1
+18;Anton Miranchuk;9;1
+19;Alexandr Samedov;4;1
+20;Denis Cheryshev;3;1
+21;Artiom Dzyuba;5;1
+22;Alexei Miranchuk;12;1
+23;Fiodor Smolov;7;1
+24;Fernando Muslera;4;4
+25;Martín Silva;5;4
+26;Martín Campaña;4;4
+27;Diego Godin;4;4
+28;Jose Maria Gimenez;4;4
+29;Sebastián Coates;4;4
+30;Maximiliano Pereira;4;4
+31;Guillermo Varela;4;4
+32;Gaston Silva;4;4
+33;Martin Caceresz;4;4
+34;Nahitan Nandez;4;4
+35;Matias Vecino;4;4
+36;Rodrigo Bentancur;4;4
+37;Cristian Rodriguez;4;4
+38;Carlos Sanchez;4;4
+39;Giorgian De Arrascaeta;4;4
+40;Jonathan Urretaviscaya;4;4
+41;Lucas Torreira;4;4
+42;Diego Laxalt;4;4
+43;Luis Suarez;4;4
+44;Edinson Cavani;4;4
+45;Cristhian Stuani;4;4
+46;Maximiliano Gomez;4;4
+47;Essam El Hadary;4;3
+48;Mohamed El Shenawy;4;3
+49;Ahmed Fathi;4;3
+50;Saad Samir;4;3
+51;Ayman Ashraf;4;3
+52;Ahmed Hegazi;4;3
+53;Ali Gabr;4;3
+54;Ahmed Elmohamady;4;3
+55;Mohamed Abdel-Shafi;4;3
+56;Omar Gaber;4;3
+57;Mahmoud Hamdy;4;3
+58;Mohamed Elneny;4;3
+59;Tarek Hamed;4;3
+60;Sam Morsy;4;3
+61;Abdallah El Said;4;3
+62;Mahmoud Hassan;4;3
+63;Ramadan Sobhi;4;3
+64;Amr Warda;4;3
+65;Mahmoud Abdel-Moneim;4;3
+66;Mohamed Salah;4;3
+67;Marwan Mohsen;4;3
+68;gileo oddel Razek;4;3
+69;Pedro;4;2
+70;Mohammed Al-Owais;4;2
+71;Yasser Al-Musailem;4;2
+72;Abdullah Al-Mayuf;4;2
+73;Mansoor Al-Harbi;4;2
+74;Yasser Al-Shahrani;4;2
+75;Mohammed Al-Breik;4;2
+76;Motaz Hawsawi;4;2
+77;Omar Hawsawi;4;2
+78;Ali Al-Bulaihi;4;2
+79;Abdullah Al-Khaibari;4;2
+80;Abdulmalek Al-Khaibri;4;2
+81;Taiseer Al-Jassim;4;2
+82;Houssain Al-Mogahwi Nawaf;4;2
+83;Mohamed Kanno;4;2
+84;Hattan Bahebri;4;2
+85;Mohammed Al-Kwikbi;4;2
+86;Salem Al-Dawsari;4;2
+87;Yehya Al-Shehri;4;2
+88;Fahad Al-Muwallad;4;2
+89;Mohammad Al-Sahlawi;4;2
+90;Anthony Lopes;4;5
+91;Beto;4;5
+92;Bruno Alves;4;5
+93;Rui Patrício;4;5
+94;Cédric Soares;4;5
+95;José Fonte;4;5
+96;Mário Rui;4;5
+97;Pepe;4;5
+98;Raphael Guerreiro;4;5
+99;Rúben Dias;4;5
+100;Adrien Silva;4;5
+101;Bruno Fernandes;4;5
+102;João Mário;4;5
+103;João Moutinho;4;5
+104;Manuel Fernandes;4;5
+105;William Carvalho;4;5
+106;André Silva;4;5
+107;Bernardo Silva;4;5
+108;Cristiano Ronaldo;4;5
+109;Gonçalo Guedes;4;5
+110;Ricardo Quaresma;4;5
+111;Kepa;4;6
+112;David De Gea;4;6
+113;Pepe Reina;4;6
+114;Jordi Alba;4;6
+115;Azpilicueta;4;6
+116;Dani Carvajal;4;6
+117;Monreal;4;6
+118;Odriozola;4;6
+119;Pique;4;6
+120;Ramos;4;6
+121;Isco;4;6
+122;ion;4;6
+123;Thiago;4;6
+124;Busquets;4;6
+125;Silva;4;6
+126;Andres Iniesta;4;6
+127;Saúl;4;6
+128;Koke;4;6
+129;Asensio;4;6
+130;Iago Aspas;4;6
+131;Diego Costa;4;6
+132;Rodrigo;4;6
+133;Alireza Beiranvand;4;6
+134;Rashid Mazaheri;4;8
+135;Amir Abedzadeh;4;8
+136;Majid Hosseini;4;8
+137;Milad Mohammadi;4;8
+138;Mohammad Khanzadeh;4;8
+139;Areola;4;9
+140;Lloris;4;9
+141;Mandanda;4;9
+142;Lucas Hernández;4;9
+143;Kimpembe;4;9
+144;Mendy;4;9
+145;Mat Ryan;4;10
+146;Brad Jones;4;10
+147;Danny Vukovic;4;10
+148;Trent Sainsbury;4;10
+149;Matthew Jurman;4;10
+150;Carlos Caceda;4;11
+151;Carvallo;4;11
+152;Pedro Gallese;4;11
+153;Luis Advíncula;4;11
+154;Pedro Aquino;4;11
+155;Miguel Araujo;4;11
+156;Golfieri;4;11
+300;Frederik Ronnow;4;12
+157;Jonas Lossl;4;12
+158;Kasper Schmeichel;4;12
+159;Andreas Christensen;4;12
+160;Henrik Dalsgaard;4;12
+161;Jannik Vestergaard;4;12
+162;Jens Stryger Larsen;4;12
+163;Sergio Romero;4;13
+164;Willy Caballero;4;13
+165;Franco Armani;4;13
+166;Gabriel Mercado;4;13
+167;Nicolás Otamendi;4;13
+168;Federico Fazio;4;13
+169;Nicolas Tagliafico;4;13
+170;Marcos Rojoo;4;13
+171;Messi;4;13
+172;Quimey Perez;4;13
+173;Carlos Martinez;4;13
+174;Franco Ribas;4;13
+175;Alan Perez;4;13
+176;Thor Halldorsson;4;14
+177;Runar Alex Runarsson;4;14
+178;Frederik Schram;4;14
+179;Kari Arnason;4;14
+180;Ari Freyr Skulason;4;14
+181;Birkir Mar Saevarsson;4;14
+182;Sverrir Ingi Ingason;4;14
+183;Hordur Magnusson;4;14
+184;Danijel Subasic;4;15
+185;Lovre Kalinic;4;15
+186;Dominik Livakovic;4;15
+187;Domagoj Vida;4;15
+188;Dejan Lovren;4;15
+189;Sime Vrsaljko;4;15
+190;Ikechukwu Ezenwa;4;16
+191;Francis Uzoho;4;16
+192;William Troost-Ekong;4;16
+193;Leon Balogun;4;16
+194;Kenneth Omeruo;4;16
+195;Alisson;4;17
+196;Ederson;4;17
+197;Cassio;4;17
+198;Marcelo;4;17
+199;Danilo;4;17
+201;Filipe Luis;4;17
+202;Fagner;4;17
+203;Marquinhos;4;17
+204;Thiago Silva;4;17
+205;Miranda;4;17
+206;Pedro Geromel;4;17
+207;Keylor Navas;4;19
+208;Patrick Pemberton;4;19
+209;Leonel Moreira;4;19
+210;Cristian Gamboa;4;19
+211;Ian Smith;4;19
+212;Ronald Matarrita;4;19
+213;Manuel Neuer;4;21
+214;Marc-Andre ter Stegen;4;21
+215;Kevin Trapp;4;21
+216;Jerome Boateng;4;21
+217;Matthias Ginter;4;21
+218;Jonas Hector;4;21
+219;Mats Hummels;4;21
+220;Guillermo Ochoa;4;22
+221;Jesus Corona;4;22
+222;Alfredo Talavera;4;22
+223;Edson Alvarez;4;22
+224;Hugo Ayala;4;22
+225;Jesus;4;22
+226;Miguel Layún;4;22
+227;Rafa Márquez;4;22
+228;Robin Olsen;4;23
+229;Karl-Johan Johnsson;4;23
+230;Kristoffer Nordfeldt;4;23
+231;Mikael Lustig;4;23
+232;Victor Lindelof;4;23
+233;Andreas Granqvist;4;23
+234;Martin Olsson;4;23
+235;Kim Seunggyu;4;24
+236;Kim Jinhyeon;4;24
+237;Jo Hyeonwoo;4;24
+238;Go Yohan;4;24
+239;Kim Minwoo;4;24
+240;Kim Younggwon;4;24
+241;Jordan Pickford;4;28
+242;Nick Pope;4;28
+243;Jack Butland;4;28
+244;Kyle Walker;4;28
+245;Kieran Trippier;4;28
+246;Trent Alexander-Arnold;4;28
+247;Gary Cahill;4;28
+248;Jack The Ripper;4;28
+249;Arthur pendragon;4;28
+250;Mouez Hassen;4;27
+251;Farouk Ben Mustapha;4;27
+252;Yassine Meriah;4;27
+253;Syam Ben Youssef;4;27
+254;Koen Casteels;4;25
+255;Thibaut Courtois;4;25
+256;Simon Mignolet;4;25
+257;Toby Alderweireld;4;25
+258;Dedryck Boyata;4;25
+259;Vincent Kompany;4;25
+260;Jaime Penedo;4;26
+261;Alex Rodríguez;4;26
+262;Azmahar Ariano;4;26
+263;Felipe Baloy;4;26
+264;Harold Cummings;4;26
+265;Eric Davis;4;26
+266;Fidel Escobar;4;26
+267;Bartosz Bialkowski;4;29
+268;Lukasz Fabianski;4;29
+269;Wojciech Szczesny;4;29
+270;Jan Bednarek;4;29
+271;Bartosz Bereszynski;4;29
+272;Thiago Cionek;4;29
+273;David Ospina;4;31
+274;Camilo Vargas;4;31
+275;Jose Fernando Cuadrado;4;31
+276;Cristian Zapata;4;31
+277;Davinson Sanchez;4;31
+278;Santiago Arias;4;31
+279;Abdoulaye Diallo;4;30
+280;Khadim Ndiaye;4;30
+281;Alfred Gomis;4;30
+282;Kalidou Koulibal;4;30
+283;Lamine Gassama;4;30
+284;Kara Mbodj;4;30
+285;Moussa Wague;4;30
+286;Eiji Kawashima;4;32
+287;Masaaki Higashiguchi;4;32
+287;Kosuke Nakamura;4;32	
+287;Yuto Nagatomo;4;32		
+287;Tomoaki Makino;4;32		
+287;Maya Yoshida;4;32

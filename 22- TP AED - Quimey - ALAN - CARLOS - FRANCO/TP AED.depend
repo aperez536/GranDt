@@ -1,0 +1,2430 @@
+# depslib dependency file v1.0
+1526744231 source:c:\users\thesi\desktop\tp aed\main.cpp
+	<iostream>
+	<string.h>
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+
+1526744250 source:c:\users\thesi\desktop\tp aed\grupo.cpp
+	"Grupo.h"
+	<string.h>
+
+1526744245 c:\users\thesi\desktop\tp aed\grupo.h
+
+1526741429 c:\users\thesi\desktop\tp aed\equipo.h
+
+1526741869 c:\users\thesi\desktop\tp aed\jugador.h
+
+1526742556 source:c:\users\thesi\desktop\tp aed\equipo.cpp
+	"Equipo.h"
+
+1526782602 source:c:\users\alan\desktop\tp anual mi equipo\1-tp aed-quimey\equipo.cpp
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+
+1526782556 c:\users\alan\desktop\tp anual mi equipo\1-tp aed-quimey\equipo.h
+	"Lista.h"
+
+1526782717 source:c:\users\alan\desktop\tp anual mi equipo\1-tp aed-quimey\grupo.cpp
+	"Grupo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+
+1526782810 c:\users\alan\desktop\tp anual mi equipo\1-tp aed-quimey\grupo.h
+	"Lista.h"
+
+1526831480 source:c:\users\alan\desktop\tp anual mi equipo\1-tp aed-quimey\main.cpp
+	<iostream>
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+
+1526829965 c:\users\alan\desktop\tp anual mi equipo\1-tp aed-quimey\jugador.h
+	"Lista.h"
+
+1526830131 c:\users\alan\desktop\tp anual mi equipo\1-tp aed-quimey\lista.h
+
+1496415434 source:c:\users\alan\desktop\tp anual mi equipo\1-tp aed-quimey\lista.cpp
+	"Lista.h"
+
+1526830822 source:c:\users\alan\desktop\tp anual mi equipo\1-tp aed-quimey\jugador.cpp
+	"Jugador.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1526831200 source:c:\users\alan\desktop\tp anual mi equipo\1-tp aed-quimey\partido.cpp
+	"Partido.h"
+	"Lista.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1526831450 c:\users\alan\desktop\tp anual mi equipo\1-tp aed-quimey\partido.h
+	"Lista.h"
+
+1526830633 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\3-tp aed-quimey version 3\equipo.cpp
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+
+1526803100 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\3-tp aed-quimey version 3\equipo.h
+	"Lista.h"
+
+1526803102 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\3-tp aed-quimey version 3\lista.h
+
+1526830706 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\3-tp aed-quimey version 3\grupo.cpp
+	"Grupo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+
+1526803100 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\3-tp aed-quimey version 3\grupo.h
+	"Lista.h"
+
+1526830615 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\3-tp aed-quimey version 3\jugador.cpp
+	"Jugador.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1526803100 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\3-tp aed-quimey version 3\jugador.h
+	"Lista.h"
+
+1526803100 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\3-tp aed-quimey version 3\lista.cpp
+	"Lista.h"
+
+1526830349 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\3-tp aed-quimey version 3\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+
+1526803104 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\3-tp aed-quimey version 3\partido.h
+	"Lista.h"
+
+1526830706 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\3-tp aed-quimey version 3\partido.cpp
+	"Partido.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1526830633 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\4-tp aed-quimey\equipo.cpp
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+
+1526803100 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\4-tp aed-quimey\equipo.h
+	"Lista.h"
+
+1526803102 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\4-tp aed-quimey\lista.h
+
+1526830706 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\4-tp aed-quimey\grupo.cpp
+	"Grupo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+
+1526803100 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\4-tp aed-quimey\grupo.h
+	"Lista.h"
+
+1526830615 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\4-tp aed-quimey\jugador.cpp
+	"Jugador.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1526803100 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\4-tp aed-quimey\jugador.h
+	"Lista.h"
+
+1526803100 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\4-tp aed-quimey\lista.cpp
+	"Lista.h"
+
+1526830349 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\4-tp aed-quimey\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+
+1526803104 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\4-tp aed-quimey\partido.h
+	"Lista.h"
+
+1526830706 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\4-tp aed-quimey\partido.cpp
+	"Partido.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1527254210 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\4-tp aed-quimey\equipo.cpp
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+
+1527258738 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\4-tp aed-quimey\equipo.h
+	"Lista.h"
+
+1527252538 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\4-tp aed-quimey\lista.h
+
+1527185858 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\4-tp aed-quimey\grupo.cpp
+	"Grupo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+
+1527185858 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\4-tp aed-quimey\grupo.h
+	"Lista.h"
+
+1527186497 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\4-tp aed-quimey\jugador.cpp
+	"Jugador.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1527186496 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\4-tp aed-quimey\jugador.h
+	"Lista.h"
+
+1527253686 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\4-tp aed-quimey\lista.cpp
+	"Lista.h"
+
+1527186498 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\4-tp aed-quimey\partido.cpp
+	"Partido.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1527186498 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\4-tp aed-quimey\partido.h
+	"Lista.h"
+
+1527254325 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\4-tp aed-quimey\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	<stdio.h>
+
+1527185858 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\tp aed-quimey\grupo.cpp
+	"Grupo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+
+1527185858 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\tp aed-quimey\grupo.h
+	"Lista.h"
+
+1527252538 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\tp aed-quimey\lista.h
+
+1527186497 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\tp aed-quimey\jugador.cpp
+	"Jugador.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1527186496 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\tp aed-quimey\jugador.h
+	"Lista.h"
+
+1527253686 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\tp aed-quimey\lista.cpp
+	"Lista.h"
+
+1527254325 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\tp aed-quimey\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	<stdio.h>
+
+1527258738 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\tp aed-quimey\equipo.h
+	"Lista.h"
+
+1527186498 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\tp aed-quimey\partido.h
+	"Lista.h"
+
+1527186498 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\tp aed-quimey\partido.cpp
+	"Partido.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1527256076 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\tp aed-quimey\equipo.cpp
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+
+1527185858 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\original - tp aed-quimey\grupo.cpp
+	"Grupo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+
+1527185858 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\original - tp aed-quimey\grupo.h
+	"Lista.h"
+
+1527252538 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\original - tp aed-quimey\lista.h
+
+1527186497 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\original - tp aed-quimey\jugador.cpp
+	"Jugador.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1527186496 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\original - tp aed-quimey\jugador.h
+	"Lista.h"
+
+1527253686 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\original - tp aed-quimey\lista.cpp
+	"Lista.h"
+
+1527186498 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\original - tp aed-quimey\partido.cpp
+	"Partido.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1527186498 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\original - tp aed-quimey\partido.h
+	"Lista.h"
+
+1527263053 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\original - tp aed-quimey\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	<stdio.h>
+
+1527261861 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\original - tp aed-quimey\equipo.h
+	"Lista.h"
+
+1527262675 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\original - tp aed-quimey\equipo.cpp
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+
+1527185858 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\4 - tp aed-quimey\grupo.cpp
+	"Grupo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+
+1527185858 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\4 - tp aed-quimey\grupo.h
+	"Lista.h"
+
+1527252538 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\4 - tp aed-quimey\lista.h
+
+1527186497 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\4 - tp aed-quimey\jugador.cpp
+	"Jugador.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1527186496 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\4 - tp aed-quimey\jugador.h
+	"Lista.h"
+
+1527253686 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\4 - tp aed-quimey\lista.cpp
+	"Lista.h"
+
+1527186498 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\4 - tp aed-quimey\partido.cpp
+	"Partido.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1527186498 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\4 - tp aed-quimey\partido.h
+	"Lista.h"
+
+1527185858 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\original- tp aed-quimey\grupo.cpp
+	"Grupo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+
+1527185858 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\original- tp aed-quimey\grupo.h
+	"Lista.h"
+
+1527252538 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\original- tp aed-quimey\lista.h
+
+1527186497 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\original- tp aed-quimey\jugador.cpp
+	"Jugador.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1527186496 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\original- tp aed-quimey\jugador.h
+	"Lista.h"
+
+1527253686 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\original- tp aed-quimey\lista.cpp
+	"Lista.h"
+
+1527277021 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\original- tp aed-quimey\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	<stdio.h>
+
+1527276896 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\original- tp aed-quimey\equipo.h
+	"Lista.h"
+
+1527186498 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\original- tp aed-quimey\partido.h
+	"Lista.h"
+
+1527186498 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\original- tp aed-quimey\partido.cpp
+	"Partido.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1527276901 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\original- tp aed-quimey\equipo.cpp
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+
+1527360770 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\4 - tp aed-quimey final funcional\equipo.cpp
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+
+1527358932 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\4 - tp aed-quimey final funcional\equipo.h
+	"Lista.h"
+
+1527252538 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\4 - tp aed-quimey final funcional\lista.h
+
+1527185858 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\4 - tp aed-quimey final funcional\grupo.cpp
+	"Grupo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+
+1527358812 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\4 - tp aed-quimey final funcional\grupo.h
+	"Lista.h"
+
+1527364304 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\4 - tp aed-quimey final funcional\jugador.cpp
+	"Jugador.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1527362567 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\4 - tp aed-quimey final funcional\jugador.h
+	"Lista.h"
+
+1527253686 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\4 - tp aed-quimey final funcional\lista.cpp
+	"Lista.h"
+
+1527363061 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\4 - tp aed-quimey final funcional\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	<stdio.h>
+
+1527186498 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\4 - tp aed-quimey final funcional\partido.h
+	"Lista.h"
+
+1527186498 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\4 - tp aed-quimey final funcional\partido.cpp
+	"Partido.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1527705638 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\tp aed-quimey final funcional\equipo.cpp
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+	"Jugador.h"
+
+1527704912 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\tp aed-quimey final funcional\equipo.h
+	"Lista.h"
+
+1527252538 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\tp aed-quimey final funcional\lista.h
+
+1527185858 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\tp aed-quimey final funcional\grupo.cpp
+	"Grupo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+
+1527358812 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\tp aed-quimey final funcional\grupo.h
+	"Lista.h"
+
+1527705769 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\tp aed-quimey final funcional\jugador.cpp
+	"Jugador.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1527704759 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\tp aed-quimey final funcional\jugador.h
+	"Lista.h"
+
+1527253686 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\tp aed-quimey final funcional\lista.cpp
+	"Lista.h"
+
+1527705825 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\tp aed-quimey final funcional\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+
+1527186498 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\tp aed-quimey final funcional\partido.h
+	"Lista.h"
+
+1527186498 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\tp aed-quimey final funcional\partido.cpp
+	"Partido.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1528746717 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\tp aed-quimey final funcional ----- new\grupo.cpp
+	"Grupo.h"
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+
+1528745836 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\tp aed-quimey final funcional ----- new\grupo.h
+	"Lista.h"
+
+1527691746 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\tp aed-quimey final funcional ----- new\lista.h
+
+1527691746 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\tp aed-quimey final funcional ----- new\jugador.cpp
+	"Jugador.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1527691744 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\tp aed-quimey final funcional ----- new\jugador.h
+	"Lista.h"
+
+1527691746 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\tp aed-quimey final funcional ----- new\lista.cpp
+	"Lista.h"
+
+1528745836 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\tp aed-quimey final funcional ----- new\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+
+1528746717 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\tp aed-quimey final funcional ----- new\equipo.h
+	"Lista.h"
+
+1527691748 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\tp aed-quimey final funcional ----- new\partido.h
+	"Lista.h"
+
+1527691746 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\tp aed-quimey final funcional ----- new\partido.cpp
+	"Partido.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1528746717 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\tp aed-quimey final funcional ----- new\equipo.cpp
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+	"Jugador.h"
+
+1528732890 source:c:\users\thesi\downloads\8 - tp aed-quimey final funcional ----- new-20180612t001025z-001\8 - tp aed-quimey final funcional ----- new\equipo.cpp
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+	"Jugador.h"
+
+1528732890 c:\users\thesi\downloads\8 - tp aed-quimey final funcional ----- new-20180612t001025z-001\8 - tp aed-quimey final funcional ----- new\equipo.h
+	"Lista.h"
+
+1528732894 c:\users\thesi\downloads\8 - tp aed-quimey final funcional ----- new-20180612t001025z-001\8 - tp aed-quimey final funcional ----- new\lista.h
+
+1528732890 c:\users\thesi\downloads\8 - tp aed-quimey final funcional ----- new-20180612t001025z-001\8 - tp aed-quimey final funcional ----- new\jugador.h
+	"Lista.h"
+
+1528732890 source:c:\users\thesi\downloads\8 - tp aed-quimey final funcional ----- new-20180612t001025z-001\8 - tp aed-quimey final funcional ----- new\grupo.cpp
+	"Grupo.h"
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+
+1528732892 c:\users\thesi\downloads\8 - tp aed-quimey final funcional ----- new-20180612t001025z-001\8 - tp aed-quimey final funcional ----- new\grupo.h
+	"Lista.h"
+
+1528732892 source:c:\users\thesi\downloads\8 - tp aed-quimey final funcional ----- new-20180612t001025z-001\8 - tp aed-quimey final funcional ----- new\jugador.cpp
+	"Jugador.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1528732892 source:c:\users\thesi\downloads\8 - tp aed-quimey final funcional ----- new-20180612t001025z-001\8 - tp aed-quimey final funcional ----- new\lista.cpp
+	"Lista.h"
+
+1528732894 source:c:\users\thesi\downloads\8 - tp aed-quimey final funcional ----- new-20180612t001025z-001\8 - tp aed-quimey final funcional ----- new\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+
+1528732894 c:\users\thesi\downloads\8 - tp aed-quimey final funcional ----- new-20180612t001025z-001\8 - tp aed-quimey final funcional ----- new\partido.h
+	"Lista.h"
+
+1528732894 source:c:\users\thesi\downloads\8 - tp aed-quimey final funcional ----- new-20180612t001025z-001\8 - tp aed-quimey final funcional ----- new\partido.cpp
+	"Partido.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1528981011 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\8 - tp aed-quimey final funcional ----- new\equipo.cpp
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+	"Jugador.h"
+
+1528981011 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\8 - tp aed-quimey final funcional ----- new\equipo.h
+	"Lista.h"
+
+1528980480 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\8 - tp aed-quimey final funcional ----- new\lista.h
+
+1528980417 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\8 - tp aed-quimey final funcional ----- new\jugador.h
+	"Lista.h"
+
+1528980417 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\8 - tp aed-quimey final funcional ----- new\jugador.cpp
+	"Jugador.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1528980554 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\8 - tp aed-quimey final funcional ----- new\lista.cpp
+	"Lista.h"
+
+1528732894 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\8 - tp aed-quimey final funcional ----- new\partido.cpp
+	"Partido.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1528732894 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\8 - tp aed-quimey final funcional ----- new\partido.h
+	"Lista.h"
+
+1528980855 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\8 - tp aed-quimey final funcional ----- new\grupo.cpp
+	"Grupo.h"
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+
+1528980855 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\8 - tp aed-quimey final funcional ----- new\grupo.h
+	"Lista.h"
+
+1528981011 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\8 - tp aed-quimey final funcional ----- new\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	"reportes.h"
+
+1528981046 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\8 - tp aed-quimey final funcional ----- new\reportes.h
+	"lista.h"
+
+1528980688 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\8 - tp aed-quimey final funcional ----- new\reportes.cpp
+	"reportes.h"
+	<iostream>
+	<stdlib.h>
+	"Jugador.h"
+	"Lista.h"
+
+1528980855 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\9 - tp aed-quimey final funcional ----- new\grupo.cpp
+	"Grupo.h"
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+
+1528980855 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\9 - tp aed-quimey final funcional ----- new\grupo.h
+	"Lista.h"
+
+1528980480 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\9 - tp aed-quimey final funcional ----- new\lista.h
+
+1528981011 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\9 - tp aed-quimey final funcional ----- new\equipo.h
+	"Lista.h"
+
+1528980417 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\9 - tp aed-quimey final funcional ----- new\jugador.cpp
+	"Jugador.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1528980417 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\9 - tp aed-quimey final funcional ----- new\jugador.h
+	"Lista.h"
+
+1528980554 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\9 - tp aed-quimey final funcional ----- new\lista.cpp
+	"Lista.h"
+
+1528732894 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\9 - tp aed-quimey final funcional ----- new\partido.cpp
+	"Partido.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1528732894 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\9 - tp aed-quimey final funcional ----- new\partido.h
+	"Lista.h"
+
+1529008400 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\9 - tp aed-quimey final funcional ----- new\reportes.cpp
+	"reportes.h"
+	<iostream>
+	<stdlib.h>
+	"Jugador.h"
+	"Lista.h"
+	"Grupo.h"
+	"Equipo.h"
+
+1528981046 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\9 - tp aed-quimey final funcional ----- new\reportes.h
+	"lista.h"
+
+1529004388 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\9 - tp aed-quimey final funcional ----- new\equipo.cpp
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+	"Jugador.h"
+
+1529009111 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\9 - tp aed-quimey final funcional ----- new\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	"reportes.h"
+	"Fechas.h"
+
+1529008994 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\9 - tp aed-quimey final funcional ----- new\fechas.h
+	"Lista.h"
+
+1529009244 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\9 - tp aed-quimey final funcional ----- new\fechas.cpp
+	"Fechas.h"
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<string.h>
+	"Lista.h"
+	"Equipo.h"
+
+1529176093 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\10 - tp aed-quimey final funcional ----- new\equipo.cpp
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+	"Jugador.h"
+
+1529176093 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\10 - tp aed-quimey final funcional ----- new\equipo.h
+	"Lista.h"
+
+1528980480 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\10 - tp aed-quimey final funcional ----- new\lista.h
+
+1529178715 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\10 - tp aed-quimey final funcional ----- new\jugador.h
+	"Lista.h"
+
+1529009244 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\10 - tp aed-quimey final funcional ----- new\fechas.cpp
+	"Fechas.h"
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<string.h>
+	"Lista.h"
+	"Equipo.h"
+
+1529008994 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\10 - tp aed-quimey final funcional ----- new\fechas.h
+	"Lista.h"
+
+1529180485 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\10 - tp aed-quimey final funcional ----- new\grupo.cpp
+	"Grupo.h"
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+
+1529178149 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\10 - tp aed-quimey final funcional ----- new\grupo.h
+	"Lista.h"
+
+1529178715 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\10 - tp aed-quimey final funcional ----- new\jugador.cpp
+	"Jugador.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1528980554 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\10 - tp aed-quimey final funcional ----- new\lista.cpp
+	"Lista.h"
+
+1529178466 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\10 - tp aed-quimey final funcional ----- new\partido.cpp
+	"Partido.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1529178214 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\10 - tp aed-quimey final funcional ----- new\partido.h
+	"Lista.h"
+
+1529008400 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\10 - tp aed-quimey final funcional ----- new\reportes.cpp
+	"reportes.h"
+	<iostream>
+	<stdlib.h>
+	"Jugador.h"
+	"Lista.h"
+	"Grupo.h"
+	"Equipo.h"
+
+1528981046 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\10 - tp aed-quimey final funcional ----- new\reportes.h
+	"lista.h"
+
+1529182073 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\10 - tp aed-quimey final funcional ----- new\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	"reportes.h"
+	"Fechas.h"
+	"Validaciones.h"
+
+1529182914 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\10 - tp aed-quimey final funcional ----- new\validaciones.h
+	"Lista.h"
+
+1529182800 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\10 - tp aed-quimey final funcional ----- new\validaciones.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validaciones.h"
+	"Lista.h"
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+
+1529176093 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\11 - tp aed-quimey final funcional ----- new\equipo.cpp
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+	"Jugador.h"
+
+1529176093 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\11 - tp aed-quimey final funcional ----- new\equipo.h
+	"Lista.h"
+
+1529252374 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\11 - tp aed-quimey final funcional ----- new\lista.h
+
+1529249995 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\11 - tp aed-quimey final funcional ----- new\jugador.h
+	"Lista.h"
+
+1529009244 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\11 - tp aed-quimey final funcional ----- new\fechas.cpp
+	"Fechas.h"
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<string.h>
+	"Lista.h"
+	"Equipo.h"
+
+1529008994 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\11 - tp aed-quimey final funcional ----- new\fechas.h
+	"Lista.h"
+
+1529249995 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\11 - tp aed-quimey final funcional ----- new\jugador.cpp
+	"Jugador.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1528980554 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\11 - tp aed-quimey final funcional ----- new\lista.cpp
+	"Lista.h"
+
+1529252496 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\11 - tp aed-quimey final funcional ----- new\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	"reportes.h"
+	"Fechas.h"
+	"Validaciones.h"
+
+1529247514 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\11 - tp aed-quimey final funcional ----- new\grupo.h
+	"Lista.h"
+
+1529252372 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\11 - tp aed-quimey final funcional ----- new\partido.h
+	"Lista.h"
+
+1528981046 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\11 - tp aed-quimey final funcional ----- new\reportes.h
+	"lista.h"
+
+1529182914 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\11 - tp aed-quimey final funcional ----- new\validaciones.h
+	"Lista.h"
+
+1529252650 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\11 - tp aed-quimey final funcional ----- new\partido.cpp
+	"Partido.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1529008400 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\11 - tp aed-quimey final funcional ----- new\reportes.cpp
+	"reportes.h"
+	<iostream>
+	<stdlib.h>
+	"Jugador.h"
+	"Lista.h"
+	"Grupo.h"
+	"Equipo.h"
+
+1529182800 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\11 - tp aed-quimey final funcional ----- new\validaciones.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validaciones.h"
+	"Lista.h"
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+
+1529247513 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\11 - tp aed-quimey final funcional ----- new\grupo.cpp
+	"Grupo.h"
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+
+1529176093 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\12 - tp aed-quimey final funcional ----- new\equipo.cpp
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+	"Jugador.h"
+
+1529176093 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\12 - tp aed-quimey final funcional ----- new\equipo.h
+	"Lista.h"
+
+1529252374 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\12 - tp aed-quimey final funcional ----- new\lista.h
+
+1529359066 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\12 - tp aed-quimey final funcional ----- new\jugador.h
+	"Lista.h"
+
+1529009244 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\12 - tp aed-quimey final funcional ----- new\fechas.cpp
+	"Fechas.h"
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<string.h>
+	"Lista.h"
+	"Equipo.h"
+
+1529008994 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\12 - tp aed-quimey final funcional ----- new\fechas.h
+	"Lista.h"
+
+1529247513 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\12 - tp aed-quimey final funcional ----- new\grupo.cpp
+	"Grupo.h"
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+
+1529247514 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\12 - tp aed-quimey final funcional ----- new\grupo.h
+	"Lista.h"
+
+1528980554 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\12 - tp aed-quimey final funcional ----- new\lista.cpp
+	"Lista.h"
+
+1529008400 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\12 - tp aed-quimey final funcional ----- new\reportes.cpp
+	"reportes.h"
+	<iostream>
+	<stdlib.h>
+	"Jugador.h"
+	"Lista.h"
+	"Grupo.h"
+	"Equipo.h"
+
+1528981046 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\12 - tp aed-quimey final funcional ----- new\reportes.h
+	"lista.h"
+
+1529182800 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\12 - tp aed-quimey final funcional ----- new\validaciones.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validaciones.h"
+	"Lista.h"
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+
+1529182914 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\12 - tp aed-quimey final funcional ----- new\validaciones.h
+	"Lista.h"
+
+1529359304 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\12 - tp aed-quimey final funcional ----- new\partido.h
+	"Lista.h"
+
+1529359116 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\12 - tp aed-quimey final funcional ----- new\jugador.cpp
+	"Jugador.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1529359066 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\12 - tp aed-quimey final funcional ----- new\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	"reportes.h"
+	"Fechas.h"
+	"Validaciones.h"
+
+1529359129 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\12 - tp aed-quimey final funcional ----- new\partido.cpp
+	"Partido.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1529440134 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\13 - tp aed-quimey final funcional ----- new\equipo.cpp
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+	"Jugador.h"
+
+1529436739 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\13 - tp aed-quimey final funcional ----- new\equipo.h
+	"Lista.h"
+
+1529252374 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\13 - tp aed-quimey final funcional ----- new\lista.h
+
+1529440187 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\13 - tp aed-quimey final funcional ----- new\jugador.h
+	"Lista.h"
+
+1529009244 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\13 - tp aed-quimey final funcional ----- new\fechas.cpp
+	"Fechas.h"
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<string.h>
+	"Lista.h"
+	"Equipo.h"
+
+1529008994 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\13 - tp aed-quimey final funcional ----- new\fechas.h
+	"Lista.h"
+
+1529440019 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\13 - tp aed-quimey final funcional ----- new\grupo.cpp
+	"Grupo.h"
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+
+1529433185 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\13 - tp aed-quimey final funcional ----- new\grupo.h
+	"Lista.h"
+
+1528980554 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\13 - tp aed-quimey final funcional ----- new\lista.cpp
+	"Lista.h"
+
+1529440339 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\13 - tp aed-quimey final funcional ----- new\partido.cpp
+	"Partido.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1529436739 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\13 - tp aed-quimey final funcional ----- new\partido.h
+	"Lista.h"
+
+1529008400 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\13 - tp aed-quimey final funcional ----- new\reportes.cpp
+	"reportes.h"
+	<iostream>
+	<stdlib.h>
+	"Jugador.h"
+	"Lista.h"
+	"Grupo.h"
+	"Equipo.h"
+
+1528981046 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\13 - tp aed-quimey final funcional ----- new\reportes.h
+	"lista.h"
+
+1529182800 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\13 - tp aed-quimey final funcional ----- new\validaciones.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validaciones.h"
+	"Lista.h"
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+
+1529182914 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\13 - tp aed-quimey final funcional ----- new\validaciones.h
+	"Lista.h"
+
+1529440246 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\13 - tp aed-quimey final funcional ----- new\jugador.cpp
+	"Jugador.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1529440246 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\13 - tp aed-quimey final funcional ----- new\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	"reportes.h"
+	"Fechas.h"
+	"Validaciones.h"
+
+1529433679 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\versiones viejas\13 - tp aed-quimey final funcional ----- new\equipo.cpp
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+	"Jugador.h"
+
+1529436739 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\versiones viejas\13 - tp aed-quimey final funcional ----- new\equipo.h
+	"Lista.h"
+
+1529252374 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\versiones viejas\13 - tp aed-quimey final funcional ----- new\lista.h
+
+1529439617 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\versiones viejas\13 - tp aed-quimey final funcional ----- new\jugador.h
+	"Lista.h"
+
+1529009244 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\versiones viejas\13 - tp aed-quimey final funcional ----- new\fechas.cpp
+	"Fechas.h"
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<string.h>
+	"Lista.h"
+	"Equipo.h"
+
+1529008994 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\versiones viejas\13 - tp aed-quimey final funcional ----- new\fechas.h
+	"Lista.h"
+
+1529433185 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\versiones viejas\13 - tp aed-quimey final funcional ----- new\grupo.cpp
+	"Grupo.h"
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+
+1529433185 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\versiones viejas\13 - tp aed-quimey final funcional ----- new\grupo.h
+	"Lista.h"
+
+1529439688 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\versiones viejas\13 - tp aed-quimey final funcional ----- new\jugador.cpp
+	"Jugador.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1528980554 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\versiones viejas\13 - tp aed-quimey final funcional ----- new\lista.cpp
+	"Lista.h"
+
+1529439818 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\versiones viejas\13 - tp aed-quimey final funcional ----- new\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	"reportes.h"
+	"Fechas.h"
+	"Validaciones.h"
+
+1529436739 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\versiones viejas\13 - tp aed-quimey final funcional ----- new\partido.h
+	"Lista.h"
+
+1528981046 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\versiones viejas\13 - tp aed-quimey final funcional ----- new\reportes.h
+	"lista.h"
+
+1529182914 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\versiones viejas\13 - tp aed-quimey final funcional ----- new\validaciones.h
+	"Lista.h"
+
+1529435680 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\versiones viejas\13 - tp aed-quimey final funcional ----- new\partido.cpp
+	"Partido.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1529008400 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\versiones viejas\13 - tp aed-quimey final funcional ----- new\reportes.cpp
+	"reportes.h"
+	<iostream>
+	<stdlib.h>
+	"Jugador.h"
+	"Lista.h"
+	"Grupo.h"
+	"Equipo.h"
+
+1529182800 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\versiones viejas\13 - tp aed-quimey final funcional ----- new\validaciones.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validaciones.h"
+	"Lista.h"
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+
+1529521808 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\14 - tp aed-quimey final funcional ----- new\equipo.cpp
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+	"Jugador.h"
+
+1529521276 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\14 - tp aed-quimey final funcional ----- new\equipo.h
+	"Lista.h"
+
+1529252374 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\14 - tp aed-quimey final funcional ----- new\lista.h
+
+1529519854 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\14 - tp aed-quimey final funcional ----- new\jugador.h
+	"Lista.h"
+
+1529009244 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\14 - tp aed-quimey final funcional ----- new\fechas.cpp
+	"Fechas.h"
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<string.h>
+	"Lista.h"
+	"Equipo.h"
+
+1529008994 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\14 - tp aed-quimey final funcional ----- new\fechas.h
+	"Lista.h"
+
+1529440939 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\14 - tp aed-quimey final funcional ----- new\grupo.cpp
+	"Grupo.h"
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+
+1529440948 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\14 - tp aed-quimey final funcional ----- new\grupo.h
+	"Lista.h"
+
+1528980554 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\14 - tp aed-quimey final funcional ----- new\lista.cpp
+	"Lista.h"
+
+1529524977 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\14 - tp aed-quimey final funcional ----- new\partido.cpp
+	"Partido.h"
+	"Equipo.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1529521047 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\14 - tp aed-quimey final funcional ----- new\partido.h
+	"Lista.h"
+
+1529008400 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\14 - tp aed-quimey final funcional ----- new\reportes.cpp
+	"reportes.h"
+	<iostream>
+	<stdlib.h>
+	"Jugador.h"
+	"Lista.h"
+	"Grupo.h"
+	"Equipo.h"
+
+1528981046 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\14 - tp aed-quimey final funcional ----- new\reportes.h
+	"lista.h"
+
+1529519564 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\14 - tp aed-quimey final funcional ----- new\validaciones.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validaciones.h"
+	"Lista.h"
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+
+1529518614 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\14 - tp aed-quimey final funcional ----- new\validaciones.h
+	"Lista.h"
+
+1529440492 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\14 - tp aed-quimey final funcional ----- new\funciones_compara.cpp
+	"funciones_compara.h"
+	"lista.h"
+	"Equipo.h"
+	"Partido.h"
+	"Jugador.h"
+
+1528386416 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\14 - tp aed-quimey final funcional ----- new\funciones_compara.h
+	"lista.h"
+
+1529441132 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\14 - tp aed-quimey final funcional ----- new\jugador.cpp
+	"Jugador.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1529525183 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\14 - tp aed-quimey final funcional ----- new\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	"reportes.h"
+	"Fechas.h"
+	"Validaciones.h"
+
+1529521808 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\15 - tp aed-quimey final funcional ----- new\equipo.cpp
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+	"Jugador.h"
+
+1529521276 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\15 - tp aed-quimey final funcional ----- new\equipo.h
+	"Lista.h"
+
+1529252374 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\15 - tp aed-quimey final funcional ----- new\lista.h
+
+1529519854 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\15 - tp aed-quimey final funcional ----- new\jugador.h
+	"Lista.h"
+
+1529009244 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\15 - tp aed-quimey final funcional ----- new\fechas.cpp
+	"Fechas.h"
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<string.h>
+	"Lista.h"
+	"Equipo.h"
+
+1529008994 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\15 - tp aed-quimey final funcional ----- new\fechas.h
+	"Lista.h"
+
+1529440492 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\15 - tp aed-quimey final funcional ----- new\funciones_compara.cpp
+	"funciones_compara.h"
+	"lista.h"
+	"Equipo.h"
+	"Partido.h"
+	"Jugador.h"
+
+1528386416 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\15 - tp aed-quimey final funcional ----- new\funciones_compara.h
+	"lista.h"
+
+1529615624 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\15 - tp aed-quimey final funcional ----- new\partido.h
+	"Lista.h"
+
+1529440939 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\15 - tp aed-quimey final funcional ----- new\grupo.cpp
+	"Grupo.h"
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+
+1529440948 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\15 - tp aed-quimey final funcional ----- new\grupo.h
+	"Lista.h"
+
+1529441132 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\15 - tp aed-quimey final funcional ----- new\jugador.cpp
+	"Jugador.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1528980554 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\15 - tp aed-quimey final funcional ----- new\lista.cpp
+	"Lista.h"
+
+1529008400 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\15 - tp aed-quimey final funcional ----- new\reportes.cpp
+	"reportes.h"
+	<iostream>
+	<stdlib.h>
+	"Jugador.h"
+	"Lista.h"
+	"Grupo.h"
+	"Equipo.h"
+
+1528981046 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\15 - tp aed-quimey final funcional ----- new\reportes.h
+	"lista.h"
+
+1529519564 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\15 - tp aed-quimey final funcional ----- new\validaciones.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validaciones.h"
+	"Lista.h"
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+
+1529518614 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\15 - tp aed-quimey final funcional ----- new\validaciones.h
+	"Lista.h"
+
+1529613229 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\15 - tp aed-quimey final funcional ----- new\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	"reportes.h"
+	"Fechas.h"
+	"Llaves.h"
+	"Validaciones.h"
+
+1529611900 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\15 - tp aed-quimey final funcional ----- new\partido.cpp
+	"Partido.h"
+	"Equipo.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1529612322 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\15 - tp aed-quimey final funcional ----- new\llaves.cpp
+	"Llaves.h"
+	<iostream>
+	<stdlib.h>
+
+1529611801 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\15 - tp aed-quimey final funcional ----- new\llaves.h
+	"Lista.h"
+	"Equipo.h"
+	"Partido.h"
+
+1529683868 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\16 - tp aed-quimey final funcional ----- new\equipo.cpp
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+	"Jugador.h"
+
+1529684055 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\16 - tp aed-quimey final funcional ----- new\equipo.h
+	"Lista.h"
+
+1529252374 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\16 - tp aed-quimey final funcional ----- new\lista.h
+
+1529519854 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\16 - tp aed-quimey final funcional ----- new\jugador.h
+	"Lista.h"
+
+1529009244 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\16 - tp aed-quimey final funcional ----- new\fechas.cpp
+	"Fechas.h"
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<string.h>
+	"Lista.h"
+	"Equipo.h"
+
+1529008994 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\16 - tp aed-quimey final funcional ----- new\fechas.h
+	"Lista.h"
+
+1529440492 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\16 - tp aed-quimey final funcional ----- new\funciones_compara.cpp
+	"funciones_compara.h"
+	"lista.h"
+	"Equipo.h"
+	"Partido.h"
+	"Jugador.h"
+
+1528386416 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\16 - tp aed-quimey final funcional ----- new\funciones_compara.h
+	"lista.h"
+
+1529685800 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\16 - tp aed-quimey final funcional ----- new\partido.h
+	"Lista.h"
+
+1529681503 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\16 - tp aed-quimey final funcional ----- new\grupo.cpp
+	"Grupo.h"
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+
+1529683030 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\16 - tp aed-quimey final funcional ----- new\grupo.h
+	"Lista.h"
+
+1529684326 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\16 - tp aed-quimey final funcional ----- new\jugador.cpp
+	"Jugador.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1528980554 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\16 - tp aed-quimey final funcional ----- new\lista.cpp
+	"Lista.h"
+
+1529615626 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\16 - tp aed-quimey final funcional ----- new\llaves.cpp
+	"Llaves.h"
+	<iostream>
+	<stdlib.h>
+
+1529611801 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\16 - tp aed-quimey final funcional ----- new\llaves.h
+	"Lista.h"
+	"Equipo.h"
+	"Partido.h"
+
+1529685800 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\16 - tp aed-quimey final funcional ----- new\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	"reportes.h"
+	"Fechas.h"
+	"Llaves.h"
+	"funciones_compara.h"
+	"Validaciones.h"
+
+1528981046 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\16 - tp aed-quimey final funcional ----- new\reportes.h
+	"lista.h"
+
+1529518614 e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\16 - tp aed-quimey final funcional ----- new\validaciones.h
+	"Lista.h"
+
+1529686450 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\16 - tp aed-quimey final funcional ----- new\partido.cpp
+	"Partido.h"
+	"Equipo.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1529008400 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\16 - tp aed-quimey final funcional ----- new\reportes.cpp
+	"reportes.h"
+	<iostream>
+	<stdlib.h>
+	"Jugador.h"
+	"Lista.h"
+	"Grupo.h"
+	"Equipo.h"
+
+1529519564 source:e:\mis cosas\tarea pendiente universidad\segundo a—o facultad\algoritmo y estructura de datos\trabajo practico_\16 - tp aed-quimey final funcional ----- new\validaciones.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validaciones.h"
+	"Lista.h"
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+
+1529686838 source:c:\users\user\desktop\19 - tp aed-quimey final funcional ----- new\equipo.cpp
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+	"Jugador.h"
+
+1529686838 c:\users\user\desktop\19 - tp aed-quimey final funcional ----- new\equipo.h
+	"Lista.h"
+
+1529686842 c:\users\user\desktop\19 - tp aed-quimey final funcional ----- new\lista.h
+
+1529686842 c:\users\user\desktop\19 - tp aed-quimey final funcional ----- new\jugador.h
+	"Lista.h"
+
+1529686838 source:c:\users\user\desktop\19 - tp aed-quimey final funcional ----- new\funciones_compara.cpp
+	"funciones_compara.h"
+	"lista.h"
+	"Equipo.h"
+	"Partido.h"
+	"Jugador.h"
+
+1529686840 c:\users\user\desktop\19 - tp aed-quimey final funcional ----- new\funciones_compara.h
+	"lista.h"
+
+1529686844 c:\users\user\desktop\19 - tp aed-quimey final funcional ----- new\partido.h
+	"Lista.h"
+
+1529686840 source:c:\users\user\desktop\19 - tp aed-quimey final funcional ----- new\grupo.cpp
+	"Grupo.h"
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+
+1529686840 c:\users\user\desktop\19 - tp aed-quimey final funcional ----- new\grupo.h
+	"Lista.h"
+
+1529686842 source:c:\users\user\desktop\19 - tp aed-quimey final funcional ----- new\jugador.cpp
+	"Jugador.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1529686842 source:c:\users\user\desktop\19 - tp aed-quimey final funcional ----- new\lista.cpp
+	"Lista.h"
+
+1529686842 source:c:\users\user\desktop\19 - tp aed-quimey final funcional ----- new\llaves.cpp
+	"Llaves.h"
+	<iostream>
+	<stdlib.h>
+
+1529686842 c:\users\user\desktop\19 - tp aed-quimey final funcional ----- new\llaves.h
+	"Lista.h"
+	"Equipo.h"
+	"Partido.h"
+
+1529686842 source:c:\users\user\desktop\19 - tp aed-quimey final funcional ----- new\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	"reportes.h"
+	"Fechas.h"
+	"Llaves.h"
+	"funciones_compara.h"
+	"Validaciones.h"
+
+1529686844 c:\users\user\desktop\19 - tp aed-quimey final funcional ----- new\reportes.h
+	"lista.h"
+
+1529686838 c:\users\user\desktop\19 - tp aed-quimey final funcional ----- new\fechas.h
+	"Lista.h"
+
+1529686846 c:\users\user\desktop\19 - tp aed-quimey final funcional ----- new\validaciones.h
+	"Lista.h"
+
+1529686844 source:c:\users\user\desktop\19 - tp aed-quimey final funcional ----- new\partido.cpp
+	"Partido.h"
+	"Equipo.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1529686844 source:c:\users\user\desktop\19 - tp aed-quimey final funcional ----- new\reportes.cpp
+	"reportes.h"
+	<iostream>
+	<stdlib.h>
+	"Jugador.h"
+	"Lista.h"
+	"Grupo.h"
+	"Equipo.h"
+
+1529686846 source:c:\users\user\desktop\19 - tp aed-quimey final funcional ----- new\validaciones.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validaciones.h"
+	"Lista.h"
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+
+1529686838 source:c:\users\user\desktop\unla\9 - ayed\tp final\tp anual mi equipo\19 - tp aed-quimey final funcional ----- new\equipo.cpp
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+	"Jugador.h"
+
+1529686838 c:\users\user\desktop\unla\9 - ayed\tp final\tp anual mi equipo\19 - tp aed-quimey final funcional ----- new\equipo.h
+	"Lista.h"
+
+1529686842 c:\users\user\desktop\unla\9 - ayed\tp final\tp anual mi equipo\19 - tp aed-quimey final funcional ----- new\lista.h
+
+1529686842 c:\users\user\desktop\unla\9 - ayed\tp final\tp anual mi equipo\19 - tp aed-quimey final funcional ----- new\jugador.h
+	"Lista.h"
+
+1529686838 source:c:\users\user\desktop\unla\9 - ayed\tp final\tp anual mi equipo\19 - tp aed-quimey final funcional ----- new\funciones_compara.cpp
+	"funciones_compara.h"
+	"lista.h"
+	"Equipo.h"
+	"Partido.h"
+	"Jugador.h"
+
+1529686840 c:\users\user\desktop\unla\9 - ayed\tp final\tp anual mi equipo\19 - tp aed-quimey final funcional ----- new\funciones_compara.h
+	"lista.h"
+
+1529686844 c:\users\user\desktop\unla\9 - ayed\tp final\tp anual mi equipo\19 - tp aed-quimey final funcional ----- new\partido.h
+	"Lista.h"
+
+1529686840 source:c:\users\user\desktop\unla\9 - ayed\tp final\tp anual mi equipo\19 - tp aed-quimey final funcional ----- new\grupo.cpp
+	"Grupo.h"
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+
+1529686840 c:\users\user\desktop\unla\9 - ayed\tp final\tp anual mi equipo\19 - tp aed-quimey final funcional ----- new\grupo.h
+	"Lista.h"
+
+1529686842 source:c:\users\user\desktop\unla\9 - ayed\tp final\tp anual mi equipo\19 - tp aed-quimey final funcional ----- new\jugador.cpp
+	"Jugador.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1529686842 source:c:\users\user\desktop\unla\9 - ayed\tp final\tp anual mi equipo\19 - tp aed-quimey final funcional ----- new\lista.cpp
+	"Lista.h"
+
+1529711922 source:c:\users\user\desktop\unla\9 - ayed\tp final\tp anual mi equipo\19 - tp aed-quimey final funcional ----- new\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	"reportes.h"
+	"Fechas.h"
+	"Llaves.h"
+	"funciones_compara.h"
+	"Validaciones.h"
+
+1529686844 c:\users\user\desktop\unla\9 - ayed\tp final\tp anual mi equipo\19 - tp aed-quimey final funcional ----- new\reportes.h
+	"lista.h"
+
+1529686838 c:\users\user\desktop\unla\9 - ayed\tp final\tp anual mi equipo\19 - tp aed-quimey final funcional ----- new\fechas.h
+	"Lista.h"
+
+1529694338 c:\users\user\desktop\unla\9 - ayed\tp final\tp anual mi equipo\19 - tp aed-quimey final funcional ----- new\llaves.h
+	"Lista.h"
+	"Equipo.h"
+	"Partido.h"
+
+1529686846 c:\users\user\desktop\unla\9 - ayed\tp final\tp anual mi equipo\19 - tp aed-quimey final funcional ----- new\validaciones.h
+	"Lista.h"
+
+1529686844 source:c:\users\user\desktop\unla\9 - ayed\tp final\tp anual mi equipo\19 - tp aed-quimey final funcional ----- new\partido.cpp
+	"Partido.h"
+	"Equipo.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1529686844 source:c:\users\user\desktop\unla\9 - ayed\tp final\tp anual mi equipo\19 - tp aed-quimey final funcional ----- new\reportes.cpp
+	"reportes.h"
+	<iostream>
+	<stdlib.h>
+	"Jugador.h"
+	"Lista.h"
+	"Grupo.h"
+	"Equipo.h"
+
+1529686846 source:c:\users\user\desktop\unla\9 - ayed\tp final\tp anual mi equipo\19 - tp aed-quimey final funcional ----- new\validaciones.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validaciones.h"
+	"Lista.h"
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+
+1529694336 source:c:\users\user\desktop\unla\9 - ayed\tp final\tp anual mi equipo\19 - tp aed-quimey final funcional ----- new\llaves.cpp
+	"Llaves.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1529683790 source:c:\users\thesi\desktop\21 - tp aed- carlos corregido\equipo.cpp
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+	"Jugador.h"
+
+1529683790 c:\users\thesi\desktop\21 - tp aed- carlos corregido\equipo.h
+	"Lista.h"
+
+1529683798 c:\users\thesi\desktop\21 - tp aed- carlos corregido\lista.h
+
+1529683794 c:\users\thesi\desktop\21 - tp aed- carlos corregido\jugador.h
+	"Lista.h"
+
+1529683790 source:c:\users\thesi\desktop\21 - tp aed- carlos corregido\funciones_compara.cpp
+	"funciones_compara.h"
+	"lista.h"
+	"Equipo.h"
+	"Partido.h"
+	"Jugador.h"
+
+1529683792 c:\users\thesi\desktop\21 - tp aed- carlos corregido\funciones_compara.h
+	"lista.h"
+
+1529701060 c:\users\thesi\desktop\21 - tp aed- carlos corregido\partido.h
+	"Lista.h"
+
+1529683792 source:c:\users\thesi\desktop\21 - tp aed- carlos corregido\grupo.cpp
+	"Grupo.h"
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+
+1529683792 c:\users\thesi\desktop\21 - tp aed- carlos corregido\grupo.h
+	"Lista.h"
+
+1529683794 source:c:\users\thesi\desktop\21 - tp aed- carlos corregido\jugador.cpp
+	"Jugador.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1529683798 source:c:\users\thesi\desktop\21 - tp aed- carlos corregido\lista.cpp
+	"Lista.h"
+
+1529699798 source:c:\users\thesi\desktop\21 - tp aed- carlos corregido\llaves.cpp
+	"Llaves.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1529683798 c:\users\thesi\desktop\21 - tp aed- carlos corregido\llaves.h
+	"Lista.h"
+	"Equipo.h"
+	"Partido.h"
+
+1529683796 source:c:\users\thesi\desktop\21 - tp aed- carlos corregido\partido.cpp
+	"Partido.h"
+	"Equipo.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1529683800 source:c:\users\thesi\desktop\21 - tp aed- carlos corregido\reportes.cpp
+	"reportes.h"
+	<iostream>
+	<stdlib.h>
+	"Jugador.h"
+	"Lista.h"
+	"Grupo.h"
+	"Equipo.h"
+
+1529683800 c:\users\thesi\desktop\21 - tp aed- carlos corregido\reportes.h
+	"lista.h"
+
+1529683806 source:c:\users\thesi\desktop\21 - tp aed- carlos corregido\validaciones.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validaciones.h"
+	"Lista.h"
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+
+1529683806 c:\users\thesi\desktop\21 - tp aed- carlos corregido\validaciones.h
+	"Lista.h"
+
+1529699751 source:c:\users\thesi\desktop\21 - tp aed- carlos corregido\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	"reportes.h"
+	"Llaves.h"
+	"funciones_compara.h"
+	"Validaciones.h"
+
+1529683790 c:\users\thesi\desktop\21 - tp aed- carlos corregido\fechas.h
+	"Lista.h"
+
+1529683790 source:c:\users\thesi\desktop\para romper\equipo.cpp
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+	"Jugador.h"
+
+1529683790 c:\users\thesi\desktop\para romper\equipo.h
+	"Lista.h"
+
+1529683798 c:\users\thesi\desktop\para romper\lista.h
+
+1529704409 c:\users\thesi\desktop\para romper\jugador.h
+	"Lista.h"
+
+1529683790 source:c:\users\thesi\desktop\para romper\funciones_compara.cpp
+	"funciones_compara.h"
+	"lista.h"
+	"Equipo.h"
+	"Partido.h"
+	"Jugador.h"
+
+1529683792 c:\users\thesi\desktop\para romper\funciones_compara.h
+	"lista.h"
+
+1529701060 c:\users\thesi\desktop\para romper\partido.h
+	"Lista.h"
+
+1529683792 source:c:\users\thesi\desktop\para romper\grupo.cpp
+	"Grupo.h"
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+
+1529683792 c:\users\thesi\desktop\para romper\grupo.h
+	"Lista.h"
+
+1529683794 source:c:\users\thesi\desktop\para romper\jugador.cpp
+	"Jugador.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1529683798 source:c:\users\thesi\desktop\para romper\lista.cpp
+	"Lista.h"
+
+1529699798 source:c:\users\thesi\desktop\para romper\llaves.cpp
+	"Llaves.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1529702269 c:\users\thesi\desktop\para romper\llaves.h
+	"Lista.h"
+	"Equipo.h"
+	"Partido.h"
+
+1529705938 source:c:\users\thesi\desktop\para romper\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	"reportes.h"
+	"Llaves.h"
+	"funciones_compara.h"
+	"Validaciones.h"
+
+1529702201 c:\users\thesi\desktop\para romper\reportes.h
+	"lista.h"
+
+1529701836 c:\users\thesi\desktop\para romper\validaciones.h
+	"Lista.h"
+
+1529700950 source:c:\users\thesi\desktop\para romper\partido.cpp
+	"Partido.h"
+	"Equipo.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1529683800 source:c:\users\thesi\desktop\para romper\reportes.cpp
+	"reportes.h"
+	<iostream>
+	<stdlib.h>
+	"Jugador.h"
+	"Lista.h"
+	"Grupo.h"
+	"Equipo.h"
+
+1529683806 source:c:\users\thesi\desktop\para romper\validaciones.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validaciones.h"
+	"Lista.h"
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+
+1529706446 source:c:\users\aula\desktop\22- tp aed - quimey - alan - carlos - franco\equipo.cpp
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+	"Jugador.h"
+
+1529706446 c:\users\aula\desktop\22- tp aed - quimey - alan - carlos - franco\equipo.h
+	"Lista.h"
+
+1529706450 c:\users\aula\desktop\22- tp aed - quimey - alan - carlos - franco\lista.h
+
+1529706446 c:\users\aula\desktop\22- tp aed - quimey - alan - carlos - franco\jugador.h
+	"Lista.h"
+
+1529706446 source:c:\users\aula\desktop\22- tp aed - quimey - alan - carlos - franco\funciones_compara.cpp
+	"funciones_compara.h"
+	"lista.h"
+	"Equipo.h"
+	"Partido.h"
+	"Jugador.h"
+
+1529706446 c:\users\aula\desktop\22- tp aed - quimey - alan - carlos - franco\funciones_compara.h
+	"lista.h"
+
+1529706450 c:\users\aula\desktop\22- tp aed - quimey - alan - carlos - franco\partido.h
+	"Lista.h"
+
+1529706446 source:c:\users\aula\desktop\22- tp aed - quimey - alan - carlos - franco\grupo.cpp
+	"Grupo.h"
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+
+1529706446 c:\users\aula\desktop\22- tp aed - quimey - alan - carlos - franco\grupo.h
+	"Lista.h"
+
+1529706446 source:c:\users\aula\desktop\22- tp aed - quimey - alan - carlos - franco\jugador.cpp
+	"Jugador.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1529706450 source:c:\users\aula\desktop\22- tp aed - quimey - alan - carlos - franco\lista.cpp
+	"Lista.h"
+
+1529706450 source:c:\users\aula\desktop\22- tp aed - quimey - alan - carlos - franco\llaves.cpp
+	"Llaves.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1529706450 c:\users\aula\desktop\22- tp aed - quimey - alan - carlos - franco\llaves.h
+	"Lista.h"
+	"Equipo.h"
+	"Partido.h"
+
+1529706450 source:c:\users\aula\desktop\22- tp aed - quimey - alan - carlos - franco\partido.cpp
+	"Partido.h"
+	"Equipo.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1529706450 source:c:\users\aula\desktop\22- tp aed - quimey - alan - carlos - franco\reportes.cpp
+	"reportes.h"
+	<iostream>
+	<stdlib.h>
+	"Jugador.h"
+	"Lista.h"
+	"Grupo.h"
+	"Equipo.h"
+
+1529706452 c:\users\aula\desktop\22- tp aed - quimey - alan - carlos - franco\reportes.h
+	"lista.h"
+
+1529706452 source:c:\users\aula\desktop\22- tp aed - quimey - alan - carlos - franco\validaciones.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validaciones.h"
+	"Lista.h"
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+
+1529706452 c:\users\aula\desktop\22- tp aed - quimey - alan - carlos - franco\validaciones.h
+	"Lista.h"
+
+1529758804 source:c:\users\aula\desktop\22- tp aed - quimey - alan - carlos - franco\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	"reportes.h"
+	"Llaves.h"
+	"funciones_compara.h"
+	"Validaciones.h"
+
+1529706446 source:e:\22- tp aed - quimey - alan - carlos - franco\equipo.cpp
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+	"Jugador.h"
+
+1529706446 e:\22- tp aed - quimey - alan - carlos - franco\equipo.h
+	"Lista.h"
+
+1529706450 e:\22- tp aed - quimey - alan - carlos - franco\lista.h
+
+1529706446 e:\22- tp aed - quimey - alan - carlos - franco\jugador.h
+	"Lista.h"
+
+1529706446 source:e:\22- tp aed - quimey - alan - carlos - franco\funciones_compara.cpp
+	"funciones_compara.h"
+	"lista.h"
+	"Equipo.h"
+	"Partido.h"
+	"Jugador.h"
+
+1529706446 e:\22- tp aed - quimey - alan - carlos - franco\funciones_compara.h
+	"lista.h"
+
+1529706450 e:\22- tp aed - quimey - alan - carlos - franco\partido.h
+	"Lista.h"
+
+1529706446 source:e:\22- tp aed - quimey - alan - carlos - franco\grupo.cpp
+	"Grupo.h"
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+
+1529706446 e:\22- tp aed - quimey - alan - carlos - franco\grupo.h
+	"Lista.h"
+
+1529760764 source:e:\22- tp aed - quimey - alan - carlos - franco\jugador.cpp
+	"Jugador.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1529706450 source:e:\22- tp aed - quimey - alan - carlos - franco\lista.cpp
+	"Lista.h"
+
+1529706450 source:e:\22- tp aed - quimey - alan - carlos - franco\llaves.cpp
+	"Llaves.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1529706450 e:\22- tp aed - quimey - alan - carlos - franco\llaves.h
+	"Lista.h"
+	"Equipo.h"
+	"Partido.h"
+
+1529762662 source:e:\22- tp aed - quimey - alan - carlos - franco\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	"reportes.h"
+	"Llaves.h"
+	"funciones_compara.h"
+	"Validaciones.h"
+
+1529706452 e:\22- tp aed - quimey - alan - carlos - franco\reportes.h
+	"lista.h"
+
+1529706452 e:\22- tp aed - quimey - alan - carlos - franco\validaciones.h
+	"Lista.h"
+
+1529706450 source:e:\22- tp aed - quimey - alan - carlos - franco\partido.cpp
+	"Partido.h"
+	"Equipo.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1529706450 source:e:\22- tp aed - quimey - alan - carlos - franco\reportes.cpp
+	"reportes.h"
+	<iostream>
+	<stdlib.h>
+	"Jugador.h"
+	"Lista.h"
+	"Grupo.h"
+	"Equipo.h"
+
+1529759491 source:e:\22- tp aed - quimey - alan - carlos - franco\validaciones.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validaciones.h"
+	"Lista.h"
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+
+1529750358 source:c:\users\alan\desktop\22- tp aed - quimey - alan - carlos - franco\funciones_compara.cpp
+	"funciones_compara.h"
+	"lista.h"
+	"Equipo.h"
+	"Partido.h"
+	"Jugador.h"
+
+1529750358 c:\users\alan\desktop\22- tp aed - quimey - alan - carlos - franco\funciones_compara.h
+	"lista.h"
+
+1529750360 c:\users\alan\desktop\22- tp aed - quimey - alan - carlos - franco\lista.h
+
+1529750358 c:\users\alan\desktop\22- tp aed - quimey - alan - carlos - franco\equipo.h
+	"Lista.h"
+
+1529750360 c:\users\alan\desktop\22- tp aed - quimey - alan - carlos - franco\partido.h
+	"Lista.h"
+
+1529750358 c:\users\alan\desktop\22- tp aed - quimey - alan - carlos - franco\jugador.h
+	"Lista.h"
+
+1537211024 source:c:\users\alan\desktop\22- tp aed - quimey - alan - carlos - franco\grupo.cpp
+	"Grupo.h"
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+
+1537211527 c:\users\alan\desktop\22- tp aed - quimey - alan - carlos - franco\grupo.h
+	"Lista.h"
+
+1529750358 source:c:\users\alan\desktop\22- tp aed - quimey - alan - carlos - franco\jugador.cpp
+	"Jugador.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1529750360 source:c:\users\alan\desktop\22- tp aed - quimey - alan - carlos - franco\lista.cpp
+	"Lista.h"
+
+1529750360 source:c:\users\alan\desktop\22- tp aed - quimey - alan - carlos - franco\llaves.cpp
+	"Llaves.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1529750360 c:\users\alan\desktop\22- tp aed - quimey - alan - carlos - franco\llaves.h
+	"Lista.h"
+	"Equipo.h"
+	"Partido.h"
+
+1537149310 source:c:\users\alan\desktop\22- tp aed - quimey - alan - carlos - franco\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	"reportes.h"
+	"Llaves.h"
+	"funciones_compara.h"
+	"Validaciones.h"
+
+1529750362 c:\users\alan\desktop\22- tp aed - quimey - alan - carlos - franco\reportes.h
+	"lista.h"
+
+1529750362 c:\users\alan\desktop\22- tp aed - quimey - alan - carlos - franco\validaciones.h
+	"Lista.h"
+
+1529750360 source:c:\users\alan\desktop\22- tp aed - quimey - alan - carlos - franco\partido.cpp
+	"Partido.h"
+	"Equipo.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1529750360 source:c:\users\alan\desktop\22- tp aed - quimey - alan - carlos - franco\reportes.cpp
+	"reportes.h"
+	<iostream>
+	<stdlib.h>
+	"Jugador.h"
+	"Lista.h"
+	"Grupo.h"
+	"Equipo.h"
+
+1529750362 source:c:\users\alan\desktop\22- tp aed - quimey - alan - carlos - franco\validaciones.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validaciones.h"
+	"Lista.h"
+	"Grupo.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+
+1529750356 source:c:\users\alan\desktop\22- tp aed - quimey - alan - carlos - franco\equipo.cpp
+	"Equipo.h"
+	"stdlib.h"
+	"stdio.h"
+	<iostream>
+	<string.h>
+	"Jugador.h"
+
